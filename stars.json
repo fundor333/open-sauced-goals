@@ -1,9 +1,9 @@
 [
   {
     "full_name": "rtyley/bfg-repo-cleaner",
-    "stargazers_count": 8371,
+    "stargazers_count": 8380,
     "open_issues_count": 248,
-    "forks_count": 465
+    "forks_count": 464
   },
   {
     "full_name": "lefcha/imapfilter",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "goldsmith/Wikipedia",
-    "stargazers_count": 2411,
+    "stargazers_count": 2410,
     "open_issues_count": 178,
     "forks_count": 485
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 18571,
-    "open_issues_count": 71,
-    "forks_count": 639
+    "stargazers_count": 18711,
+    "open_issues_count": 72,
+    "forks_count": 645
   },
   {
     "full_name": "misodope/AdultSwimTok",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "zostera/django-bootstrap5",
-    "stargazers_count": 101,
-    "open_issues_count": 25,
-    "forks_count": 26
+    "stargazers_count": 103,
+    "open_issues_count": 26,
+    "forks_count": 27
   },
   {
     "full_name": "artiebits/fake-git-history",
-    "stargazers_count": 256,
+    "stargazers_count": 258,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 10909,
-    "open_issues_count": 334,
-    "forks_count": 1887
+    "stargazers_count": 11057,
+    "open_issues_count": 335,
+    "forks_count": 1905
   },
   {
     "full_name": "raulsperoni/magnesium-wordcloud-panel",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "thundernest/import-export-tools-ng",
-    "stargazers_count": 141,
-    "open_issues_count": 152,
-    "forks_count": 18
+    "stargazers_count": 142,
+    "open_issues_count": 153,
+    "forks_count": 17
   },
   {
     "full_name": "h44z/gitlab_to_gitea",
-    "stargazers_count": 42,
-    "open_issues_count": 0,
+    "stargazers_count": 43,
+    "open_issues_count": 1,
     "forks_count": 14
   },
   {
@@ -97,45 +97,45 @@
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 8158,
+    "stargazers_count": 8194,
     "open_issues_count": 191,
-    "forks_count": 1430
+    "forks_count": 1438
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 16276,
+    "stargazers_count": 16310,
     "open_issues_count": 249,
-    "forks_count": 1591
+    "forks_count": 1594
   },
   {
     "full_name": "Asana/python-asana",
     "stargazers_count": 240,
-    "open_issues_count": 10,
-    "forks_count": 71
+    "open_issues_count": 11,
+    "forks_count": 72
   },
   {
     "full_name": "zostera/django-bootstrap4",
     "stargazers_count": 944,
     "open_issues_count": 26,
-    "forks_count": 246
+    "forks_count": 247
   },
   {
     "full_name": "quantumblacklabs/kedro",
-    "stargazers_count": 6504,
-    "open_issues_count": 56,
-    "forks_count": 612
+    "stargazers_count": 6585,
+    "open_issues_count": 60,
+    "forks_count": 618
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 1423,
-    "open_issues_count": 12,
-    "forks_count": 98
+    "stargazers_count": 1431,
+    "open_issues_count": 13,
+    "forks_count": 101
   },
   {
     "full_name": "typeddjango/django-stubs",
-    "stargazers_count": 830,
-    "open_issues_count": 172,
-    "forks_count": 221
+    "stargazers_count": 834,
+    "open_issues_count": 173,
+    "forks_count": 224
   },
   {
     "full_name": "WarenGonzaga/fork-corner",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 8444,
+    "stargazers_count": 8512,
     "open_issues_count": 156,
-    "forks_count": 1835
+    "forks_count": 1860
   },
   {
     "full_name": "irevenko/octotui",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "hartator/wayback-machine-downloader",
-    "stargazers_count": 3693,
+    "stargazers_count": 3699,
     "open_issues_count": 115,
     "forks_count": 499
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2139,
+    "stargazers_count": 2166,
     "open_issues_count": 27,
-    "forks_count": 247
+    "forks_count": 250
   },
   {
     "full_name": "xxh/xxh",
-    "stargazers_count": 3129,
+    "stargazers_count": 3138,
     "open_issues_count": 11,
     "forks_count": 61
   }

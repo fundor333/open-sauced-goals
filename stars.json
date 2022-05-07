@@ -1,7 +1,7 @@
 [
   {
     "full_name": "rtyley/bfg-repo-cleaner",
-    "stargazers_count": 8554,
+    "stargazers_count": 8565,
     "open_issues_count": 250,
     "forks_count": 472
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "goldsmith/Wikipedia",
-    "stargazers_count": 2435,
+    "stargazers_count": 2438,
     "open_issues_count": 182,
     "forks_count": 494
   },
   {
     "full_name": "slidevjs/themes",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 1,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 20258,
-    "open_issues_count": 86,
-    "forks_count": 732
+    "stargazers_count": 20295,
+    "open_issues_count": 82,
+    "forks_count": 738
   },
   {
     "full_name": "misodope/AdultSwimTok",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "artiebits/fake-git-history",
-    "stargazers_count": 274,
+    "stargazers_count": 275,
     "open_issues_count": 1,
     "forks_count": 28
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 12265,
-    "open_issues_count": 345,
-    "forks_count": 2113
+    "stargazers_count": 12300,
+    "open_issues_count": 348,
+    "forks_count": 2128
   },
   {
     "full_name": "raulsperoni/magnesium-wordcloud-panel",
@@ -80,7 +80,7 @@
   {
     "full_name": "thundernest/import-export-tools-ng",
     "stargazers_count": 150,
-    "open_issues_count": 163,
+    "open_issues_count": 164,
     "forks_count": 18
   },
   {
@@ -93,19 +93,19 @@
     "full_name": "manios/docker-nagios",
     "stargazers_count": 34,
     "open_issues_count": 11,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "tiangolo/full-stack-fastapi-postgresql",
-    "stargazers_count": 8788,
+    "stargazers_count": 8816,
     "open_issues_count": 195,
-    "forks_count": 1565
+    "forks_count": 1576
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 16831,
-    "open_issues_count": 249,
-    "forks_count": 1637
+    "stargazers_count": 16855,
+    "open_issues_count": 251,
+    "forks_count": 1640
   },
   {
     "full_name": "Asana/python-asana",
@@ -115,25 +115,25 @@
   },
   {
     "full_name": "zostera/django-bootstrap4",
-    "stargazers_count": 960,
+    "stargazers_count": 961,
     "open_issues_count": 26,
     "forks_count": 248
   },
   {
     "full_name": "quantumblacklabs/kedro",
-    "stargazers_count": 7154,
-    "open_issues_count": 103,
-    "forks_count": 651
+    "stargazers_count": 7168,
+    "open_issues_count": 118,
+    "forks_count": 652
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 1692,
+    "stargazers_count": 1698,
     "open_issues_count": 15,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "typeddjango/django-stubs",
-    "stargazers_count": 880,
+    "stargazers_count": 884,
     "open_issues_count": 184,
     "forks_count": 250
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 9665,
-    "open_issues_count": 172,
-    "forks_count": 2318
+    "stargazers_count": 9710,
+    "open_issues_count": 174,
+    "forks_count": 2351
   },
   {
     "full_name": "irevenko/octotui",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "NerdyPepper/dijo",
-    "stargazers_count": 2479,
+    "stargazers_count": 2481,
     "open_issues_count": 26,
     "forks_count": 57
   },
   {
     "full_name": "hartator/wayback-machine-downloader",
-    "stargazers_count": 3809,
+    "stargazers_count": 3812,
     "open_issues_count": 120,
-    "forks_count": 514
+    "forks_count": 513
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2401,
+    "stargazers_count": 2418,
     "open_issues_count": 32,
-    "forks_count": 294
+    "forks_count": 298
   },
   {
     "full_name": "xxh/xxh",
-    "stargazers_count": 3289,
-    "open_issues_count": 12,
+    "stargazers_count": 3292,
+    "open_issues_count": 14,
     "forks_count": 70
   }
 ]
